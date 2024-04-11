@@ -1,2 +1,2 @@
 # bookbot
-school
+school project
